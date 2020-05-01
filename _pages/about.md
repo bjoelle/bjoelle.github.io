@@ -38,4 +38,4 @@ Software
 CV
 ======
 
-[CV_Barido-Sottani.pdf](files/CV_Barido-Sottani.pdf)
+[CV_Barido-Sottani.pdf]({{ site.baseurl }}{% link files/CV_BARIDO-SOTTANI.pdf %})
