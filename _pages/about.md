@@ -7,12 +7,17 @@ redirect_from:
 ---
 
 I am a computational biologist, specialised in the development and implementation of mathematical models for evolutionary processes. I have worked extensively with Bayesian phylogenetic inference, and contributed to both BEAST2 and RevBayes.
+{: .text-justify}
 
 I am interested in birth-death processes, and developed a new model for the inference of lineage-specific birth and death rates from a phylogeny. I have also explored the behaviour of the fossilized birth-death (FBD) process in several simulation studies.
+{: .text-justify}
 
-
+Additionally, I care about improving the reliability and usability of scientific software.  I explore ways to improve both the developer and the user experience, as well as import best practices from other areas of software development.
+{: .text-justify}
 
 **Interests:** Bayesian phylogenetic inference, birth-death processes, scientific software
+
+**Programming languages:** Java, C++, R, Python (beginner)
 
 Selected publications
 ======
