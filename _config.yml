@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "Joëlle Barido-Sottani"
 title_separator          : "-"
 name                     : &name "Joëlle Barido-Sottani"
-description              : &description "computational biologist"
+description              : &description "Computational biologist"
 url                      : "https://bjoelle.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bjoelle/bjoelle.github.io.git"
