@@ -56,6 +56,8 @@ Internships
 ======
 
 I am happy to supervise master students interested in evolution, paleontology and/or computational biology. A wide range of projects are possible, from model and software development to simulation studies to application to empirical datasets. I also have some smaller projects available for shorter internships.
+{: .text-justify}
+
 Please don't hesitate to contact me directly to discuss what you would like to do !
 
 
