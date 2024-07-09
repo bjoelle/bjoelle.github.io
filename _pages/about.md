@@ -48,7 +48,15 @@ Software
 Other contributions
 =======
 
+ * Organizing and teaching online workshops "Bayesian phylogenetic inference with BEAST2" with Transmitting Science, next one in November 2024 - register [here](https://www.transmittingscience.com/courses/evolution/bayesian-phylogenetic-inference-with-beast2/)
  * Phyloseminar (part of a 3-part series on the Fossilized Birth-Death process), [Youtube video](https://www.youtube.com/watch?v=UT6yqkPDDKs)
+
+
+Internships
+======
+
+I am happy to supervise master students interested in evolution, paleontology and/or computational biology. A wide range of projects are possible, from model and software development to simulation studies to application to empirical datasets. I also have some smaller projects available for shorter internships.
+Please don't hesitate to contact me directly to discuss what you would like to do !
 
 
 CV
