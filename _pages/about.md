@@ -6,13 +6,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational biologist, specialised in the development and implementation of mathematical models for evolutionary processes. I have worked extensively with Bayesian phylogenetic inference, and contributed to both BEAST2 and RevBayes.
+I am a computational biologist, specialised in the development and implementation of mathematical models for evolutionary processes. My research focuses on Bayesian phylogenetic inference, which aims to co-estimate a phylogeny and evolutionary parameters from an alignment of molecular and/or morphological information while explicitly accounting for uncertainty. I contribute actively to the software frameworks BEAST2 and RevBayes.
 {: .text-justify}
 
-I am interested in birth-death processes, and developed a new model for the inference of lineage-specific birth and death rates from a phylogeny. I have also explored the behaviour of the fossilized birth-death (FBD) process in several simulation studies.
+My main area of research is birth-death processes, particularly models which integrate clade-specific variations in diversification processes, as well as models which include fossil information in the phylogeny such as the Fossilized Birth-Death (FBD) process. I have developed several new models for the inference of lineage-specific birth and death rates from a phylogeny, including the packages MSBD and ClaDS for BEAST2. I use extensive simulations to test and evaluate the behaviour of both new and existing models, especially when their assumptions are violated, and establish guidelines for their use. In particular, I have studied how fossil age uncertainty and fossil placement information should be handled in FBD inferences.
 {: .text-justify}
 
-Additionally, I care about improving the reliability and usability of scientific software.  I explore ways to improve both the developer and the user experience, as well as import best practices from other areas of software development.
+In addition, I care about improving the reliability and usability of scientific software.  I explore ways to improve both the developer and the user experience, as well as import best practices from other areas of software development. I am also an active contributor to the Taming the BEAST workshops and [website](https://taming-the-beast.org/), which aims to make BEAST2 analyses accessible to a broad community of biologists, epidemiologists and palaeontologists.
 {: .text-justify}
 
 **Interests:** Bayesian phylogenetic inference, birth-death processes, scientific software
